@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An extract of severall letters, vvhich came by the last post, or otherwise, from all parts of the kingdome, since the fifth of November to this present November the twelfth. Likewise, a copy of Prince Roberts warrants from His Majesties army in the countryes about for a contribution of mony, and cloth towards the maintenance of his army.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84311</idno>
+            <idno type="STC">Wing E3913</idno>
+            <idno type="STC">Thomason E127_6</idno>
+            <idno type="EEBO-CITATION">50290240</idno>
+            <idno type="OCLC">ocm 50290240</idno>
+            <idno type="VID">156192</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84311)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156192)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E127[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An extract of severall letters, vvhich came by the last post, or otherwise, from all parts of the kingdome, since the fifth of November to this present November the twelfth. Likewise, a copy of Prince Roberts warrants from His Majesties army in the countryes about for a contribution of mony, and cloth towards the maintenance of his army.</title>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+               </titleStmt>
+               <extent>6 [i.e. 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Luke Norton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156192:1" rendition="simple:additions"/>
+            <p>AN EXTRACT OF SEVERALL LETTERS, VVhich came by the laſt Poſt, or otherwiſe, from all parts of the Kingdome, ſince the fifth of <hi>November</hi> to this preſent <hi>November</hi> the twelfth.</p>
+            <p>LIKEWISE, A COPY OF PRINCE ROBERTS Warrants from his Majeſties Army in the Countryes about for a contribu<g ref="char:EOLhyphen"/>tion of mony, and cloth towards the main<g ref="char:EOLhyphen"/>tenance of his Army.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Luke Norton</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:156192:2"/>
+            <head>An Extract of ſeverall Letters which came by the laſt Poſt; or otherwiſe, from all parts of the Kingdome, ſince the fifth of <hi>Novmber</hi> to this preſent <hi>November</hi> the twelfth.</head>
+            <p n="1">Imprimis.</p>
+            <p>
+               <note place="margin">London.</note>
+               <seg rend="decorInit">A</seg> Letter to the Lord Major and Alder<g ref="char:EOLhyphen"/>men of London, that they forthwith proclaime his Majeſties Proclamations the one dated from Edghill the 24.<note place="margin">From <hi>Edghill</hi> &amp; <hi>Ayno.</hi>
+               </note> of Octob. the oher at Aino, the 27. of the ſame, promiſing his freepardon to all that ſhall lay downe their Armes and become dutifull Subjects to his Majeſtie; except all thoſe excepted in his Declarati<g ref="char:EOLhyphen"/>on, dated the 22. of Auguſt 1643.</p>
+            <p n="2">
+               <note place="margin">Corne<g ref="char:EOLhyphen"/>wall.</note>Secondly, a Letter from the Lievtenants of the Coun<g ref="char:EOLhyphen"/>ty of Cornewall, that Sir RALPH HOPTON, hath taken upon him to aſſeſſe the Inhabitants of that Countie, and forceth them to raiſe great ſummes of money towards the maintenance of his Army, and that he hath cauſed the drummes to beat up there for Voluntiers which hee hath gotten together, neere upon 10000. ſouldiers; and if in caſe they have
+<pb n="2" facs="tcp:156192:2"/> not their weekely pay, they ſhall have what pil<g ref="char:EOLhyphen"/>lage they can ſeize on, which will be far more bene<g ref="char:EOLhyphen"/>ficiall to a ſouldier then their weekly pay, the rather for want of pay; it is his Majeſties pleaſure becauſe his Majeſtie preceiveth that the Parliament doth endea<g ref="char:EOLhyphen"/>vour to depoſe the King and after the preſent Reli<g ref="char:EOLhyphen"/>gion, this is confirmed under the hands of Sir Ralph Hopton, Sir Bevill Greenevile, Maſter Arnudell and others.</p>
+            <p n="3">Thridly, there was a Letter from Banbury,<note place="margin">Banbu<g ref="char:EOLhyphen"/>ry.</note> that the Towne was ſurrendred to the Caverleers, and that divers of the Maimed ſouldiers were ſince dead, and that the Armes therein was firſt ſeiſed on, and all the Shopps pillaged, and great ſtore of Cloth therein taken which are ſince made in Caſſocks and Hoſe for the Kings, ſouldiers, and that ſome certaine perſons were by command from his Majeſtie, ſent for to Ox<g ref="char:EOLhyphen"/>ford, which are there at this time in Goale, by his Majeſties appointment.</p>
+            <p n="4">Fourthly a letter from the Lord Fairefax and cap<g ref="char:EOLhyphen"/>taine Hotham,<note place="margin">Yorke.</note> that at Leeds they mett with Sir William Savill, Sir Thomas Glemham, Sir Iohn Go<g ref="char:EOLhyphen"/>thericke, and others of his Majeſties Forces going towards York, and in the way they fell upon each other and wounded and ſlaine of each ſide neere thritie and took Sir Iohn Gothericks Colonel, and the
+<pb n="4" facs="tcp:156192:3"/> reſt fleed upon the approaching of Sir Hugh Chom<g ref="char:EOLhyphen"/>leys Regiment, and all that the Parliaments forces have beſeiged the Citie of Yorke with 5000. foote and 500. horſes, with an Aſſurance to have poſſeſsion within 14. dayes.</p>
+            <p n="5">Fiftly a letter from Devond was read that the Cominaltie there are in great Combuſtions, and that the poore for want of trading have gotten a head and have done great ſpoiles forceing thoſe of abillity, to releive their diſtreſſes, whichith many repulſes divers at Sonthmoltod Tingmonth and other places have bine ſlaine.</p>
+            <p n="6">
+               <note place="margin">Manche<g ref="char:EOLhyphen"/>ſter.</note>Sixtly a Letter from the Lord Brewerton Sir Richard Brevverton and others that the Lord of Darby, hath ſent them threes; commanding them to lay dovvne their Armes or elſe he vvould put them all to the ſvvord vvhereupon he vvas anſwered that for his ovvne part vvee tooke Cmiſſory Willmott his vvord that he vvas a Covvard and durſt not dr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vv his ſvvord and ſo he parted in great fury.</p>
+            <p n="7">Seaventhly a letter from Holland that her Majeſtie is at the Hage and there intendeth to remaine this vvhole vvinter,<note place="margin">Holland.</note> and that ſhe hath ſent to the Kinge of France her brother for men and money for his Majeſtie but, there hath not been an anſvvere con<g ref="char:EOLhyphen"/>cuing the one or the other as yet.</p>
+            <p n="8">
+               <pb n="4" facs="tcp:156192:3"/>Eightly,<note place="margin">Oxford.</note> a letter from the Lord Genrall that his Majeſtie, was this day at woodſtocke and intendeth to be at Oxford, this night the 1. of November, and that the Lord Genrall will follow his Majeſtie Army whereſomever he ſhall remove. This letter further menconed that his Excellencie had ſent the Lord Durgarney and Scotchman, fleing from the Kings Army after the ſight at Kinton which is ſince comit<g ref="char:EOLhyphen"/>ted to maſter Maxwell gentleman vſher of the black Rodd.</p>
+            <p n="9">Ninthly,<note place="margin">Darbi<g ref="char:EOLhyphen"/>ſhire.</note> a letter from Darby that the Cavaliers have done great ſpoil at Buxton and Wealy, and that Sir Francis Wortly keepeth the paſſage betwene Braſsington and Mancheſter that none can paſſe to and fro. But that ſince Sir Iohn Gill, have raiſed great forces, and made the high way cleare, though before they made great ſpoile and plundered the Countie very much and Robbed the Carryers and waggous in all paſſages in this Countie.</p>
+            <p n="10">Tewthly a letter from Abbington Redding and Twiford that they have bine all three pillaged and loſt many thouſand of yares,<note place="margin">Bark<g ref="char:EOLhyphen"/>ſhire.</note> of Cloth in Reding but the grateſt ſpoile in that Town was done by the, In<g ref="char:EOLhyphen"/>habitants, and thoſe of the malignant partly, there the ſaid letter menconed, alſo that his Majeſtie had ſent a Meſſage to the high Sheriffe of Berks, to raiſe the
+<pb n="4" facs="tcp:156192:4"/> Countie for his ſafe paſſage through the ſhire, but the Sheriffe refuſed it, and left his houſe and fled into Wilthſhire, whoſe houſe is alſo ſince pillaged.</p>
+            <p n="11">
+               <note place="margin">Here<g ref="char:EOLhyphen"/>ford.</note>Eleventhly, a Letter from the Earle of Standford that he hath taken Maſter Price, a Member of the Commons and others, and ſtill keepes them in cuſto<g ref="char:EOLhyphen"/>dy till further Order from the Parliament.</p>
+            <p n="12">
+               <note place="margin">Oxford.</note>Twelfthy, a letter from Oxford relating the certain number of the ſlaine and wounded ſouldiers being 2000. and the number of maimed ſouldiers which came in 10. or 12. Waggons neere upon 200 beſides 3. or 4. Lords who is ſince dead and the Earle of Cra<g ref="char:EOLhyphen"/>ford is dangerouſly wounded if not ſince dead.</p>
+            <p>
+               <note place="margin">Glouce<g ref="char:EOLhyphen"/>ſterſhire.</note>A letter from Glouceſterſhire, that the Kings For<g ref="char:EOLhyphen"/>ces have taken 5. Waggons of cloth going to Abbing<g ref="char:EOLhyphen"/>ton and that the Marqueſſe of Hartfords Forces is lately come over to Shrewbury and have gotten great ſtrength and is comming to his Majeſtie.</p>
+            <p n="14">
+               <note place="margin">Newca<g ref="char:EOLhyphen"/>le</note>14. A letter fom Newcaſtle that the Towne is threatned to be pillaged but have not a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yet attempted it, for feare that the Scots ſhould come after and re<g ref="char:EOLhyphen"/>ward them for their labour.</p>
+            <p n="15">
+               <note place="margin">North<g ref="char:EOLhyphen"/>hampton.</note>15. A Letter from the Lord Say, that hi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> houſe have been pillaged, neere Banbury, and his Parke broken open, and all his Deere droven out, with o<g ref="char:EOLhyphen"/>ther great ſpoiles to his nurſeries and young trees.</p>
+            <p n="16">
+               <pb n="5" facs="tcp:156192:4"/>16.<note place="margin">Redding</note> A Letter from M<hi rend="sup">r</hi>. MARTYN a member of the Houſe that Redding hath been plundered and the Cavelliers are at this day at Colebrooke and Wind<g ref="char:EOLhyphen"/>ſor, and that Prince ROBERT have ſent a party to Windſor to deliver up the Caſtle, but he had a ſhort anſwer, That he ſhould win it and weare it, and that the Cavalliers have unript three or foure Waynes comming from the Weſt-country, and made prey of what they liked.</p>
+            <p n="17">17. A Letter from the L. Generall,<note place="margin">Buck<g ref="char:EOLhyphen"/>ingham<g ref="char:EOLhyphen"/>ſhire.</note> that his Forces being about 12000 foot, and 2000 horſe, were all found and in good health.</p>
+            <p n="18">18. A letter from Ipſwich in Suffolk,<note place="margin">Ipſwich.</note> that they have raiſed 10000 <abbr>l.</abbr> of Plate and Monie, and are raiſing of 3000. Souldiers to add to the Earle of Warwick.</p>
+            <p n="19">19. Letters from Devon. Sommerſet, and Dorſet;<note place="margin">Devon, Sommer<g ref="char:EOLhyphen"/>ſet
+<hi>and</hi> Dorſet.</note> that they have taken the oath of aſſociaton and aſſi<g ref="char:EOLhyphen"/>ſtance, and that they have raiſed great Forces and will warrant to keep Sir Ralph Hopton and his Agents where they be; as alſo to hinder the paſſages of his Majeſties Forces to come to aſsiſt him.</p>
+            <p n="20">20.<note place="margin">Norfolk.</note> A Letter from Norwich informing that the Poſts are all made ſtay of, for that there is no expecta<g ref="char:EOLhyphen"/>tion of Intelligence to and fro except ſome ſpeedie courſe be taken to root out the CAVALIERS in thoſe parts and the great companies of the poorer ſort of
+<pb n="6" facs="tcp:156192:5"/> people which pillageth and have gotten weapons aſwell as the CAVALEIRS and ſtand upon their owne guard neither for the King nor Parliament.</p>
+            <p n="21">
+               <note place="margin">Surry.</note>21. A letter that Sir Richard Ouſton, having the charge of the trained bands to march to Kingſton upon Thames, was refuſed admittance and Lodging for his ſouldiers calling them Round-heads, where<g ref="char:EOLhyphen"/>upon the ſaid SIR Richard left them to their ill diſpo<g ref="char:EOLhyphen"/>ſitions and marched towards VVinſor, where he heard that the CAVALIERS was there but ſudenly de<g ref="char:EOLhyphen"/>parted.</p>
+            <p n="22">
+               <note place="margin">Hart<g ref="char:EOLhyphen"/>fordſhire.</note>22. A letter from his Excellencie that hee was come to St. Albons with his Armie on munday fol<g ref="char:EOLhyphen"/>lowing he would come to London and certifie the Houſes of the ſtate of things paſt.</p>
+         </div>
+         <div type="warrant">
+            <head>A coppy of Prince <hi>Roberts</hi> Warrants to the Gentrie and Freeholders in the Countie of
+<hi>Borkſhiere</hi> and <hi>Oxfordſhiere</hi>
+            </head>
+            <p>Whereas there is a great Army of his MaJeſties now upon march and have not ſufficient proviſion for them, you the Knights. Gentrie and Freeholdes of the Counties of Berkſh. and Oxfordſh. We charge and Com<g ref="char:EOLhyphen"/>mand you and every of you that you forthwith uppon ſight of theſe our Warrants to bring in or cauſe to bee brought ſufficient Foode of Butter Bpead and Cheeſe and other ſuch like proviſion to his MaJeſties Armie Wee will and Command yow likewiſe to gather ſuch contributions of Mo<g ref="char:EOLhyphen"/>nie as you are able and agreeing to everie mans perticular eſtate, and up<g ref="char:EOLhyphen"/>pon fight hereof faile you not as you will anſwere the Contrarie at your prill.</p>
+            <closer>
+               <dateline>Given at Oxford.</dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
